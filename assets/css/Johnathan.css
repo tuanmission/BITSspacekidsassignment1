@@ -1,5 +1,6 @@
 ﻿body {
     margin: 0px;
+    background-color: #000000;
 }
 
 .container {
@@ -11,6 +12,7 @@
     display: flex;
     justify-content: space-between;
     padding: 38px;
+    background-color: #ffffff;
 }
 
 .left-side {
@@ -51,11 +53,11 @@
 .profile-image-wrapper img {
     position: relative;
     left: 10px;
-    bottom: 20px;
 }
 
 .profile-content-wrapper {
     padding: 30px;
+    color: #ffffff;
 }
 
 .brand {

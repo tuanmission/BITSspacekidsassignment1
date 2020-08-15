@@ -51,7 +51,7 @@
 .profile-image-wrapper img {
     position: relative;
     left: 10px;
-    top: 200px;
+    bottom: 20px;
 }
 
 .profile-content-wrapper {

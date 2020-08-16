@@ -59,6 +59,10 @@
 .profile-content-wrapper {
     padding: 30px;
     color: #ffffff;
+    
+}
+.profile-content-wrapper a {
+    color: #ffffff;
 }
 
 .brand {
